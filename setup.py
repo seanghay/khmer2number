@@ -17,7 +17,7 @@ setuptools.setup(
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
     "Intended Audience :: Developers",
-    "Natural Language :: Khmer",
+    "Natural Language :: English",
   ],
   python_requires=">3.5",
   packages=setuptools.find_packages(),
